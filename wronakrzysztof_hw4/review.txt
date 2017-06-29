@@ -1,0 +1,5 @@
+https://git.plgrid.pl/projects/PYAGHXV/repos/repo_hw1/pull-requests/11/overview
+https://git.plgrid.pl/projects/PYAGHXV/repos/repo_hw1/pull-requests/12/overview
+https://git.plgrid.pl/projects/PYAGHXV/repos/repo_hw3/pull-requests/11/overview
+https://git.plgrid.pl/projects/PYAGHXV/repos/repo_hw3/pull-requests/12/overview
+https://git.plgrid.pl/projects/PYAGHXV/repos/repo_hw2/pull-requests/12/overview

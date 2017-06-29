@@ -1,0 +1,4 @@
+Program counts averages for integer numbers.
+Enter data in list separated space.
+Run main.py to start.
+Do not need any additional library.
